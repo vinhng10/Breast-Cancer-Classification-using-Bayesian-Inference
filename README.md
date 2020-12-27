@@ -1,7 +1,7 @@
 # CS-E5710 Bayesian Data Analysis - Breast Cancer Classification
 
 ## Report
-[Data Analysis Report](https://github.com/vinhng10/Breast-Cancer-Classification-using-Bayesian-Inference/blob/main/project.pdf)   
+[Final Report](https://github.com/vinhng10/Breast-Cancer-Classification-using-Bayesian-Inference/blob/main/project.pdf)   
 
 ## Motivation
 - Breast cancer is one of the most common cancer in women around the world. According to American Cancer
