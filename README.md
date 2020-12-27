@@ -1,4 +1,8 @@
-# CS-E5710 Bayesian Data Analysis - Project work
+# CS-E5710 Bayesian Data Analysis - Breast Cancer Classification
+
+## Report
+[Data Analysis Report](https://github.com/vinhng10/Breast-Cancer-Classification-using-Bayesian-Inference/blob/main/project.pdf)   
+
 ## Motivation
 - Breast cancer is one of the most common cancer in women around the world. According to American Cancer
 Society, about 1 in 8 US women will develop breast cancer in their life time. 
@@ -35,6 +39,3 @@ There are 10 real-valued features that are computed for each cell nucleus:
 - **fractal dimension** (“coastline approximation” - 1)
 
 The target variable is to classify what is the diagnosis of breast tissues (0: malignant, 1: benign) given the available attributes.
-
-## Report
-[Data Analysis Report](https://github.com/imkhoa99/CS-E5710-Bayesian-Data-Analysis-Project-work/blob/main/project_khoa.pdf)
